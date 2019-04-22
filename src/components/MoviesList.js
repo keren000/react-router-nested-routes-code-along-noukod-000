@@ -10,3 +10,4 @@ const MoviesList = ({ movies }) => {
 
   return <div>{renderMovies}</div>;
 };
+export default MoviesList;
